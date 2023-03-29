@@ -606,6 +606,11 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+.containery {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+}
 
 @media (min-width: 576px) {
   .container, .container-sm {
